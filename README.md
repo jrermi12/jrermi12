@@ -1,7 +1,3 @@
-Here's your updated **GitHub profile** with refined project references:  
-
----
-
 ## **Welcome to My GitHub!**  
 I'm **Ermias Asmare**, a **Lead Backend Developer** passionate about building **scalable, high-performance** backend systems. I specialize in **backend architecture, API development, and cloud infrastructure**, leveraging technologies like **Node.js, Django, FastAPI, and PostgreSQL**.  
 
