@@ -98,16 +98,6 @@ Enterprise event management platform supporting large-scale events.
 
 ---
 
-## 🏗️ Melan
-Construction and engineering project management platform.
-
----
-
-## ✈️ GoFere Travels
-Travel booking and management platform.
-
----
-
 # 🛠 Tech Stack
 
 ### Languages
@@ -204,32 +194,4 @@ asmarermias@gmail.com
 ---
 
 > *"I enjoy solving business problems through software. Great backend engineering isn't just about writing APIs—it's about building scalable systems that are reliable, maintainable, and create real business value."*
-```
-
-## A few additions that would make it even stronger
-
-I'd also add these dynamic GitHub widgets below your introduction:
-
-### 📊 GitHub Stats
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-```
-
-### 🔥 GitHub Streak
-
-```markdown
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-```
-
-### 💻 Most Used Languages
-
-```markdown
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-```
-
-### 🏆 GitHub Trophies
-
-```markdown
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ```
